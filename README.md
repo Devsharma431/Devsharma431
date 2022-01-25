@@ -2,6 +2,18 @@
 <h3 align="center">A passionate ML and AI Developer, Web and Android Developer from India.</h3>
 
 <p align="left"> <a href="https://twitter.com/devshar47241642" target="blank"><img src="https://img.shields.io/twitter/follow/devshar47241642?logo=twitter&style=for-the-badge" alt="devshar47241642" /></a> </p>
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<title>403 - Forbidden</title>
+	</head>
+	<body>
+		<h1>403 - Forbidden</h1>
+	</body>
+</html>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
